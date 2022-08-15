@@ -11,6 +11,6 @@ To achieve encapsulation in Java −
 
 public class Encapsulation {
 	public static void main(String[] args) {
-
+		Student s = new Student();
 	}
 }
