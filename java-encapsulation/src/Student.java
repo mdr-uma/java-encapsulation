@@ -11,4 +11,12 @@ public class Student {
 	public String getName() {
 		return name;
 	}
+	
+	public void setAge(int newAge) {
+		age = newAge;
+	}
+	
+	public int getAge() {
+		return age;
+	}
 }
