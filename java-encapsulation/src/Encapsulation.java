@@ -12,6 +12,7 @@ To achieve encapsulation in Java −
 public class Encapsulation {
 	public static void main(String[] args) {
 		Student s = new Student();
+		s.setName("Uma");
 		
 		System.out.println(s.name);
 		System.out.println(s.age);
